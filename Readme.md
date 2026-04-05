@@ -40,6 +40,8 @@ Run the following command to download dependencies, compile, and start the Sprin
 **3. Open the Application**
 Once you see `Started WebsocketDemoApplication` in your terminal, open your web browser and go to:
 [http://localhost:8081](http://localhost:8081)
+<img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/94830871-84c8-4ec2-ab0c-1f1214f172fa" />
+
 
 **4. Test the Real-time Functions**
 To see the real-time websocket magic, open `http://localhost:8081` in **two different browser tabs**. Join as "User A" in the first tab and "User B" in the second tab, and send messages to yourself!
